@@ -1,0 +1,12 @@
+# Binaries
+appcicd
+
+# Dependency directories
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
